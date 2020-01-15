@@ -19,7 +19,6 @@ var timeBeforeClosingWindowMS = 1000;
 // Condition to consider URL found
 var regex_list = [
 	/^http(s)?:\/\/(www\.)?turbobit.net/i
-    //^http(s)?:\/\/(www\.)?ul.to/i
 ];
 
 // Copy parameter to clipboard
